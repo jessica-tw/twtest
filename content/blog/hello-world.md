@@ -4,7 +4,7 @@ date: 2020-07-16T15:33:56-03:00
 slug: "hello-world"
 description: "Testing"
 keywords: ["hello","test"]
-draft: true
+draft: false
 tags: ["hello","test"]
 math: false
 toc: false
